@@ -1,0 +1,21 @@
+{
+  "name": "kitten-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "dependencies": {
+    "image-size": "^0.5.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "webpack": "^2.2.0"
+  },
+  "scripts": {
+    "dev": "webpack --config dev.config.js --watch",
+    "build": "webpack --config prod.config.js"
+  },
+  "author": "mikeqcp",
+  "license": "MIT"
+}
