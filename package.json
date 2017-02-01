@@ -6,6 +6,11 @@
   "dependencies": {
     "image-size": "^0.5.1"
   },
+  "homepage": "https://github.com/mikeqcp/kitty-loader",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mikeqcp/kitty-loader.git"
+  },
   "devDependencies": {
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
